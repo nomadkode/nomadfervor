@@ -228,7 +228,7 @@ body {
   --fontsize-stitle: 12vw;
   --color-sdesc: #f1f1f1;
   --color-slink: #f1f1f1;
-  --color-slink-hover: #f1f1f1;
+  --color-slink-hover: #000;
   --color-slink-bg: #000;
   --color-slink-hover-bg: #ed4264;
   --color-nav: #f1f1f1;
