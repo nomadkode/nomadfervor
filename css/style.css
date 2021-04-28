@@ -188,67 +188,67 @@ body {
 
 /* Color schemes */
 .demo-1 {
-  --color-text: #fff;
+  --color-text: #e847ae;
   --color-bg: #000;
-  --color-link: #fff;
-  --color-link-hover: #13ca91;
-  --color-stitle: #fff;
+  --color-link: #e847ae;
+  --color-link-hover: #fff;
+  --color-stitle: #e847ae;
   --fontsize-stitle: 12vw;
   --color-sdesc: #fff;
-  --color-slink: #f1f1f1;
+  --color-slink: #e847ae;
   --color-slink-hover: #000;
   --color-slink-bg: #000;
-  --color-slink-hover-bg: #13ca91;
-  --color-nav: #f1f1f1;
-  --color-nav-hover: #13ca91;
+  --color-slink-hover-bg: #e847ae;
+  --color-nav: #e847ae;
+  --color-nav-hover: #fff;
 }
 
 .demo-2 {
-  --color-text: #000;
-  --color-bg: #fff;
-  --color-link: #000;
-  --color-link-hover: #37dbff;
-  --color-stitle: #fff;
+  --color-text: #ffd300;
+  --color-bg: #000;
+  --color-link: #ffd300;
+  --color-link-hover: #fff;
+  --color-stitle: #ffd300;
   --fontsize-stitle: 12vw;
   --color-sdesc: #fff;
-  --color-slink: #f1f1f1;
+  --color-slink: #ffd300;
   --color-slink-hover: #000;
   --color-slink-bg: #000;
-  --color-slink-hover-bg: #37dbff;
-  --color-nav: #000;
-  --color-nav-hover: #37dbff;
+  --color-slink-hover-bg: #ffd300;
+  --color-nav: #ffd300;
+  --color-nav-hover: #fff;
 }
 
 .demo-3 {
-  --color-text: #fff;
-  --color-bg: #333;
-  --color-link: #fff;
-  --color-link-hover: #ed4264;
-  --color-stitle: #fff;
+  --color-text: #08f7fe;
+  --color-bg: #000;
+  --color-link: #08f7fe;
+  --color-link-hover: #fff;
+  --color-stitle: #08f7fe;
   --fontsize-stitle: 12vw;
-  --color-sdesc: #f1f1f1;
-  --color-slink: #f1f1f1;
+  --color-sdesc: #fff;
+  --color-slink: #08f7fe;
   --color-slink-hover: #000;
   --color-slink-bg: #000;
-  --color-slink-hover-bg: #ed4264;
-  --color-nav: #f1f1f1;
-  --color-nav-hover: #ed4264;
+  --color-slink-hover-bg: #08f7fe;
+  --color-nav: #08f7fe;
+  --color-nav-hover: #fff;
 }
 
 .demo-4 {
-  --color-text: #fff;
-  --color-bg: #333;
-  --color-link: #fff;
-  --color-link-hover: #3b27ba;
-  --color-stitle: #fff;
+  --color-text: #472bff;
+  --color-bg: #000;
+  --color-link: #472bff;
+  --color-link-hover: #fff;
+  --color-stitle: #472bff;
   --fontsize-stitle: 12vw;
   --color-sdesc: #fff;
-  --color-slink: #f1f1f1;
-  --color-slink-hover: #000;
-  --color-slink-bg: #000;
-  --color-slink-hover-bg: #3b27ba;
-  --color-nav: #f1f1f1;
-  --color-nav-hover: #3b27ba;
+  --color-slink: #472bff;
+  --color-slink-hover: #f1f1f1;
+  --color-slink-bg: #fff;
+  --color-slink-hover-bg: #472bff;
+  --color-nav: #472bff;
+  --color-nav-hover: #fff;
 }
 
 .demo-5 {
@@ -256,7 +256,7 @@ body {
   --color-bg: #020202;
   --color-link: #fff;
   --color-link-hover: #e847ae;
-  --color-stitle: #f1f1f1;
+  --color-stitle: #e847ae;
   --fontsize-stitle: 12vw;
   --color-nav: #fff;
   --color-nav-hover: #e847ae;
